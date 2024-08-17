@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kanaad-lims
-- 👀 I’m interested in coding, playing football and learning new technologies
+- 👀 I’m interested in coding, diving deeper into AI/ML and playing football.
 - 🌱 I’m currently learning computer engineering.
-- 💞️ I’m looking to collaborate on software and robotics projects.
+- 💞️ I’m looking to collaborate on AI/Ml and app development projects.
 - 📫 How to reach me via email : kanaad.limaye@gmail.com OR contact me directly on 8390914547.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
