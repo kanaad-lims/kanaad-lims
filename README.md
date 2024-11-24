@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kanaad-lims
+- 👋 Hi, I’m Kanaad Limaye.
 - 👀 I’m interested in coding, diving deeper into AI/ML and playing football.
 - 🌱 I’m currently learning computer engineering.
 - 💞️ I’m looking to collaborate on AI/ML projects.
