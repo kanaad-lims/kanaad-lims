@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kanaad-lims
 - 👀 I’m interested in coding, diving deeper into AI/ML and playing football.
 - 🌱 I’m currently learning computer engineering.
-- 💞️ I’m looking to collaborate on AI/Ml and app development projects.
-- 📫 How to reach me via email : kanaad.limaye@gmail.com OR contact me directly on 8390914547.
+- 💞️ I’m looking to collaborate on AI/ML projects.
+- 📫 How to reach me via email : kanaadlimaye2023.comp@mmcoe.edu.in
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
