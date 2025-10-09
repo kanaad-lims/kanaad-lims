@@ -42,5 +42,7 @@ Reach out to me: [kanaad.limaye@gmail.com](mailto:kanaad.limaye@gmail.com)
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" /> 
   <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE" /> 
   <img src="https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white" alt="PlatformIO" /> 
-  <img src="https://img.shields.io/badge/Roboflow-3A0CA3?style=for-the-badge&logo=roboflow&logoColor=white" alt="Roboflow" /> 
+  <img src="https://img.shields.io/badge/Roboflow-3A0CA3?style=for-the-badge&logo=roboflow&logoColor=white" alt="Roboflow" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+
 </p>
