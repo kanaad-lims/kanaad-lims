@@ -8,7 +8,7 @@ Reach out to me: [kanaad.limaye@gmail.com](mailto:kanaad.limaye@gmail.com)
 
 ---
 
-#### Languages
+### Languages
 <p align="left"> 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" /> 
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /> 
