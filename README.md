@@ -1,4 +1,4 @@
-# Hi, I'm Kanaad Limaye.
+# Hi, I'm Kanaad Limaye
 
 Reach out to me: [kanaad.limaye@gmail.com](mailto:kanaad.limaye@gmail.com)
 
