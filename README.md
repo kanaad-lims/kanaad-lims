@@ -8,7 +8,7 @@ Reach out to me: [kanaad.limaye@gmail.com](mailto:kanaad.limaye@gmail.com)
 
 ---
 
-**Open-Source Contributor at Hugging Face hub 🤗, kvcached orgs.**
+**Open-Source Contributor at Hugging Face hub 🤗, kvcached org.**
 
 ---
 
