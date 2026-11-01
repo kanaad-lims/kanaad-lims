@@ -12,7 +12,7 @@ Reach out to me: [kanaad.limaye@gmail.com](mailto:kanaad.limaye@gmail.com)
 
 ---
 
-<div align="center">
+<div align="right">
   <img src="koi/koi.gif" width="256" alt="My koi">
 </div>
 
