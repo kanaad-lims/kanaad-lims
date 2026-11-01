@@ -12,6 +12,12 @@ Reach out to me: [kanaad.limaye@gmail.com](mailto:kanaad.limaye@gmail.com)
 
 ---
 
+<div align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi">
+</div>
+
+---
+
 ### Languages
 <p align="left"> 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" /> 
