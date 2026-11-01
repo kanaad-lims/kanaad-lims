@@ -12,9 +12,22 @@ Reach out to me: [kanaad.limaye@gmail.com](mailto:kanaad.limaye@gmail.com)
 
 ---
 
+
 <div align="center">
-  <img src="koi/koi.gif" width="256" alt="My koi">
+  <table>
+    <tr>
+      <td align="center" valign="middle">
+        <img src="koi/koi.gif" width="240" alt="Animated koi fish">
+      </td>
+      <td align="center" valign="middle">
+        <img src="./profile-3d-contrib/profile-night-green.svg"
+             width="480"
+             alt="3D GitHub contribution calendar">
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 ---
 
